@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fundoopush.tests.FundooLoginTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-01-22T13:52:20" hostname="admin1-H110M-H" time="216.453">
+  <properties/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[0](laxmanbhosale7374@gmail.com, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="0.392"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[1](, )" classname="com.fundoopush.tests.FundooLoginTest" time="0.322"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[2](laxmanbhosale7374@gmail.com, )" classname="com.fundoopush.tests.FundooLoginTest" time="0.337"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[3](, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="0.341"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[4](laxmanbhosale7374gmail.com, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="0.332"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[5](laxmanbhosale7374@gmail.com, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="0.342"/>
+  <testcase name="givenEmailIDAndPasswordWhenCorrect_Should_LoginIntoFundooPushApplication[6](laxmanbhosale7374@gmail.com, 123456)" classname="com.fundoopush.tests.FundooLoginTest" time="0.379"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1579701126203	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSiE22w"
+1579701126835	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701126945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701126945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701126946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701126946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701129133	Marionette	INFO	Listening on port 46439
+1579701129214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:22:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701140843	Marionette	INFO	Stopped listening on port 46439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1579701144789	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex0SAyT"
+1579701145349	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701145461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701145461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701145461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701145461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701147304	Marionette	INFO	Listening on port 39087
+1579701147401	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:22:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701162211	Marionette	INFO	Stopped listening on port 39087
+1579701166844	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6Lhwe"
+1579701167425	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701167538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701167538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701167539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701167539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701169687	Marionette	INFO	Listening on port 41899
+1579701169752	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:22:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701180927	Marionette	INFO	Stopped listening on port 41899
+1579701185352	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileloboaJ"
+1579701185935	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701186047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701186049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701186049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701186049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701188035	Marionette	INFO	Listening on port 34511
+1579701188063	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:23:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701202179	Marionette	INFO	Stopped listening on port 34511
+1579701206337	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiskFNI"
+1579701206878	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701206988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701206988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701206988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701206988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701209003	Marionette	INFO	Listening on port 39951
+1579701209044	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:23:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701273381	Marionette	INFO	Stopped listening on port 39951
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1579701275001	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejZb8gf"
+1579701275585	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701275697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701275697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701275697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701275697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701277731	Marionette	INFO	Listening on port 32837
+1579701277813	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:24:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701319062	Marionette	INFO	Stopped listening on port 32837
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1579701320686	mozrunner::runner	INFO	Running command: "/usr/lib/firefox/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecyaiNQ"
+1579701321241	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1579701321352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1579701321352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1579701321354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1579701321354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1579701323204	Marionette	INFO	Listening on port 32967
+1579701323294	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 22, 2020 7:25:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6616: unreachable code after return statement
+JavaScript warning: https://fundoopush-dev.bridgelabz.com/main.js, line 6622: unreachable code after return statement
+1579701356900	Marionette	INFO	Stopped listening on port 32967
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+]]></system-err>
+</testsuite>

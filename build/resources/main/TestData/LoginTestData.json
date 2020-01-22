@@ -1,0 +1,32 @@
+{
+  "LoginTest Data": [
+    {
+      "email": "laxmanbhosale7374@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "",
+      "password": ""
+    },
+    {
+      "email": "laxmanbhosale7374@gmail.com",
+      "password": ""
+    },
+    {
+      "email": "",
+      "password": "123456"
+    },
+    {
+      "email": "laxmanbhosale7374gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "laxmanbhosale7374@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "laxmanbhosale7374@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
